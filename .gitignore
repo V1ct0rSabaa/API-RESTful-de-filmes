@@ -361,4 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/teoria.txt
+# outros arquivos para ignorar
+appsettings.json
+Migrations/
