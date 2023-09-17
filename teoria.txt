@@ -1,0 +1,7 @@
+Controllers herdam da classe ControllerBase
+
+classes que interagem com o banco de dados, como as Data Transfer Object
+
+depois de terminar de criar as classes de context e model, abra a CLI do Nuget e rode o comando Add-Migration CriandoTabelaDeFilme
+
+depois Update-Database para salvar as alterações no DB
